@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\source\repos\lab 4\lab 4.5\lab 4.5\Source.cpp(16,1): warning C4805: '==': unsafe mix of type 'bool' and type 'double' in operation
+D:\source\repos\lab 4\lab 4.5\lab 4.5\Source.cpp(28,1): warning C4805: '==': unsafe mix of type 'bool' and type 'double' in operation
+  lab 4.5.vcxproj -> D:\source\repos\lab 4\lab 4.5\Debug\lab 4.5.exe
